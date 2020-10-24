@@ -1,9 +1,9 @@
-```markdown
+
 ### Old AJ's Snow Prediction Almanac
 
 ![snotel](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/snotel_sites.PNG)
 
-
+```markdown
 
 - Bulleted
 - List
