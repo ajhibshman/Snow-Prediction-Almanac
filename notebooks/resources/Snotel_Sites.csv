@@ -1,0 +1,32 @@
+﻿site_name,start,lat,lon,elev,Avg_SWE,county
+Bear Lake (322),1979-October,40.31,-105.64,9500,20.82,Larimer
+Berthoud Summit (335),1963-September,39.8,-105.78,11300,22.88,Grand
+Brumley (369),1979-October,39.09,-106.54,10600,12.22,Lake
+Butte (380),1979-October,38.89,-106.95,10160,15.80,Gunnison
+Columbine (408),1978-October,40.39,-106.6,9160,25.85,Jackson
+Copeland Lake (412),1979-October,40.21,-105.57,8600,5.86,Boulder
+Copper Mountain (415),1978-October,39.49,-106.17,10550,16.84,Summit
+Deadman Hill (438),1978-October,40.81,-105.77,10220,21.26,Larimer
+Dry Lake (457),1979-October,40.53,-106.78,8400,23.30,Routt
+Elk River (467),1978-October,40.85,-106.97,8700,20.32,Routt
+Fremont Pass (485),1979-October,39.38,-106.2,11400,20.97,Summit
+Grizzly Peak (505),1979-October,39.65,-105.87,11100,19.37,Summit
+Hoosier Pass (531),1979-October,39.36,-106.06,11400,17.82,Summit
+Independence Pass (542),1979-October,39.08,-106.61,10600,18.29,Pitkin
+Joe Wright (551),1978-October,40.53,-105.89,10120,26.42,Larimer
+Kiln (556),1979-October,39.32,-106.61,9600,13.01,Pitkin
+Lake Eldora (564),1978-October,39.94,-105.59,9700,13.53,Gilpin
+Lake Irene (565),1978-October,40.41,-105.82,10700,27.56,Grand
+Lynx Pass (607),1979-October,40.08,-106.67,8880,12.31,Routt
+Mc Clure Pass (618),1979-October,39.13,-107.29,9500,18.54,Pitkin
+Niwot (663),1979-October,40.04,-105.54,9910,14.55,Boulder
+Park Cone (680),1979-October,38.82,-106.59,9600,11.19,Gunnison
+Phantom Valley (688),1979-October,40.4,-105.85,9030,10.78,Grand
+Porphyry Creek (701),1978-October,38.49,-106.34,10760,17.32,Gunnison
+Roach (718),1979-October,40.88,-106.05,9700,18.86,Larimer
+Summit Ranch (802),1979-October,39.72,-106.16,9400,12.55,Summit
+Tower (825),1978-October,40.54,-106.68,10500,50.78,Routt
+University Camp (838),1978-October,40.03,-105.58,10300,20.37,Boulder
+Vail Mountain (842),1978-October,39.62,-106.38,10300,23.65,Eagle
+Willow Creek Pass (869),1978-October,40.35,-106.09,9540,15.96,Grand
+Willow Park (870),1979-October,40.43,-105.73,10700,21.78,Larimer
