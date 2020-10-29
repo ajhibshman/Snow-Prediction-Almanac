@@ -8,15 +8,17 @@ Alternative Hypothesis:  One or more factors has a statistically significant imp
 
 ## 1)Data collection, cleaning and merging:
 
-Snotel automated weather sites data from 1980-2020:
+Snotel automated weather sites data from 1980-2020 via NRCS website
+NWS Climate Prediction Center ENSO and PNA data
+https://www.pro-football-reference.com/ for Broncos data
 
-![snotel](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/readme_snotel.png)
+![snotel](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/readme_snotel.PNG)
 
-![heatmap](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/snotel_sites2.png)
+![heatmap](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/snotel_sites2.PNG)
 
 ## Initial analysis of weather data:
 
-![trends](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/trends.png)
+![trends](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/trends.PNG)
 
 
 
