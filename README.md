@@ -12,13 +12,13 @@ Snotel automated weather sites data from 1980-2020 via NRCS website
 NWS Climate Prediction Center ENSO and PNA data
 https://www.pro-football-reference.com/ for Broncos data
 
-![snotel](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/readme_snotel.PNG)
+![snotel](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/readme_snotel.PNG)
 
-![heatmap](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/snotel_sites2.PNG)
+![heatmap](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/snotel_sites2.PNG)
 
-## Initial analysis of weather data:
+## 2)Initial analysis of weather data:
 
-![trends](https://github.com/ajhibshman/Snow-Prediction-Almanac/images/trends.PNG)
+![trends](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/trends.PNG)
 
 
 
