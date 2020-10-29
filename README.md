@@ -1,6 +1,6 @@
 # Snow-Prediction-Almanac
 
-## This project uses Python, matplotlib and gmaps to examine weather data from a variety of sources find a long lead time indiacator of a high snowfall year.
+## This project uses Python, matplotlib and gmaps to examine weather data from a variety of sources to find a long lead time indicator of a high snowfall year.
 
 Null Hypothesis:  there is no correlation between each factor and seasonal snowfall
 
@@ -18,7 +18,7 @@ https://www.pro-football-reference.com/ for Broncos data
 
 ![heatmap](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/snotel_sites2.PNG)
 
-## 2)Initial analysis of weather data:
+## 2) Initial analysis of weather data:
 
 ![trends](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/trends.png)
 
@@ -28,7 +28,7 @@ Example slide showing August precipitation vs. SWE (Snow Water Equivelent of sno
 
 ![aug](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/readme_aug.PNG)
 
-## 4) snip of coding in Jupter notebook:
+## 4) Snip of coding in Jupter notebook:
 
 ![df](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/readme_df.PNG)
 
@@ -37,10 +37,15 @@ Example slide showing August precipitation vs. SWE (Snow Water Equivelent of sno
 ## 5) Conclusions:
 
 Most factors examined showed little to no correlation and the data largely failed to reject the null hypothesis.
+
 The strongest r value was prior years snowfall to early season showing some tendency for strong snow totals to spill over into the next season.
+
 ENSO showed some negative correlation indicating colder values may predict higher snowfall, however the data has high variation.
+
 A Broncos poor season may have some correlation with stronger snowfall the following winter. 
+
 August Average Temperature shows a clear increase over time, with an r-value of .6
+
 
 
 
