@@ -1,4 +1,4 @@
-# Snow-Prediction-Almanac
+# Snow-Prediction-Almanac v2
 
 ## This project uses Python, matplotlib and gmaps to examine weather data from a variety of sources to find a long lead time indicator of a high snowfall year.
 
