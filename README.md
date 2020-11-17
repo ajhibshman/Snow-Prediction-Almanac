@@ -14,12 +14,9 @@ NWS Climate Prediction Center ENSO and PNA data
 
 https://www.pro-football-reference.com/ for Broncos data
 
-<<<<<<< HEAD
 ![snotel](/images/readme_snotel.PNG)
-=======
 ![snotel](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/readme_snotel.PNG)
 
->>>>>>> bf92e5a415aacfc704dd6d72c026b8d4b8e66ca1
 
 ![heatmap](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/snotel_sites2.PNG)
 
