@@ -15,26 +15,24 @@ NWS Climate Prediction Center ENSO and PNA data
 https://www.pro-football-reference.com/ for Broncos data
 
 ![snotel](/images/readme_snotel.PNG)
-![snotel](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/readme_snotel.PNG)
 
-
-![heatmap](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/snotel_sites2.PNG)
+![heatmap](/images/snotel_sites2.PNG)
 
 ## 2) Initial analysis of weather data:
 
-![trends](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/trends.png)
+![trends](/images/trends.png)
 
 ## 3) Analysis:
 
 Example slide showing August precipitation vs. SWE (Snow Water Equivelent of snowpack)
 
-![aug](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/readme_aug.PNG)
+![aug](/images/readme_aug.PNG)
 
 ## 4) Snip of coding in Jupter notebook:
 
-![df](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/readme_df.PNG)
+![df](/images/readme_df.PNG)
 
-![code](https://github.com/ajhibshman/Snow-Prediction-Almanac/blob/main/images/readme_code.PNG)
+![code](/images/readme_code.PNG)
 
 ## 5) Conclusions:
 
